@@ -6,5 +6,3 @@ This project implements an Advantage Actor-Critic (A2C) agent to optimize multi-
 - Crop growth dynamics
 - Dynamic evapotranspiration based on temperature
 - Continuous irrigation actions
-
-## Repository Structure
